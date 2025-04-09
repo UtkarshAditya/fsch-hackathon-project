@@ -1,0 +1,35 @@
+# === Node.js (Next.js Frontend) ===
+node_modules/
+.next/
+.env.local
+.env
+dist/
+
+# === Python (Backend) ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
+pip-log.txt
+pyvenv.cfg
+
+# === macOS/OS/system files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === VS Code Settings (Optional) ===
+.vscode/
+
+# === Build & Output Directories (Optional) ===
+build/
+out/
