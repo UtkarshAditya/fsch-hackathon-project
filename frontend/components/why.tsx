@@ -19,9 +19,7 @@ const WhySection = () => {
 </div>
 
           {/* Floating element */}
-          <div className="absolute -bottom-6 -right-6 bg-white rounded-lg shadow-lg p-4 border-l-4 border-mediguardian-teal">
-            <p className="font-medium text-mediguardian-darkblue">Proactive health management reduces healthcare costs by up to 40%</p>
-          </div>
+         
         </div>
       </div>
       

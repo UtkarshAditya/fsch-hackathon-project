@@ -17,8 +17,8 @@ const stats = [
     icon: <BarChart className="h-8 w-8 text-black" />
   },
   {
-    value: "5M+",
-    description: "people worldwide are taking control of their health with digital health platforms",
+    value: "1M+",
+    description: "lives lost due to wrong diagnosis",
     icon: <Users className="h-8 w-8 text-black" />
   }
 ];
