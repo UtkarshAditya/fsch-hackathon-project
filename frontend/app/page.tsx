@@ -149,7 +149,7 @@ export default function Home() {
 
 
      {/* Features Section */}
-<section id="features" className="py-20 px-6 md:px-12 bg-white section">
+<section id="features" className="py-20 px-6 md:px-12 bg-gradient-to-t from-blue-300 to-[#70.7% 0.165 254.624]">
   <div className="container mx-auto">
     <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">
       Features Designed For Your <span className="text-teal-500">Wellbeing</span>

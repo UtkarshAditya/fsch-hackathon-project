@@ -4,30 +4,30 @@ const stats = [
   {
     value: "78%",
     description: "of chronic conditions can be prevented through early intervention and lifestyle changes",
-    icon: <Heart className="h-8 w-8 text-white" />
+    icon: <Heart className="h-8 w-8 text-black" />
   },
   {
     value: "3.2x",
     description: "higher engagement in health management with continuous monitoring and timely reminders",
-    icon: <Calendar className="h-8 w-8 text-white" />
+    icon: <Calendar className="h-8 w-8 text-black" />
   },
   {
     value: "68%",
     description: "of patients report improved health outcomes with proactive health management",
-    icon: <BarChart className="h-8 w-8 text-white" />
+    icon: <BarChart className="h-8 w-8 text-black" />
   },
   {
     value: "5M+",
     description: "people worldwide are taking control of their health with digital health platforms",
-    icon: <Users className="h-8 w-8 text-white" />
+    icon: <Users className="h-8 w-8 text-black" />
   }
 ];
 
 const StatsSection = () => {
   return (
-    <section id="stats" className="py-20 px-6 md:px-12 bg-gradient-to-br from-teal-400 to-blue-400 section">
+    <section id="stats" className="py-20 px-6 md:px-12 bg-gradient-to-b from-teal-200 to-blue-200 section">
       <div className="container mx-auto">
-        <h2 className="text-3xl md:text-4xl font-bold text-center text-white mb-16">
+        <h2 className="text-3xl md:text-4xl font-bold text-center text-black mb-16">
           Health By The Numbers
         </h2>
 
